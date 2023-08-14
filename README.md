@@ -6,4 +6,4 @@
 4) Pushed the project repo to Github. 
 5) Created custom README.md file as instructed.( Had done this earlier and rm it from the dir, so repeating steps ) 
 6) Push the custom README.md file to Github repo.With Updates.
- 
+7) Create the HTML code of the content  and an empty style.css file. 
